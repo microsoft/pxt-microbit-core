@@ -1,6 +1,6 @@
 {
   "name": "pxt-microbit-core",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "The glue layer that binds together PXT programs compiled to C++ and a BBC micro:bit runtime system.",
   "keywords": [],
   "author": "Microsoft Corporation",
@@ -11,7 +11,7 @@
   "homepage": "https://github.com/microsoft/pxt-microbit-core",
   "license": "MIT",
   "dependencies": {
-    "microbit": "lancaster-university/microbit#v2.0.0-rc4"
+    "microbit": "lancaster-university/microbit#v2.0.0-rc5"
   },
   "targetDependencies": {},
   "extraIncludes": [
